@@ -8,7 +8,7 @@ A fun and interactive console-based Rock-Paper-Scissors game written in C++. Pla
 ✔️ Colored screen feedback:
 
 ✅ Green if the player wins.
-❌ Red & Bell Sound if the computer wins.
+❌ Red + Bell Sound if the computer wins.
 🔶 Yellow for a draw.
 ✔️ Final Game Summary at the end of all rounds.
 ✔️ Option to play again after each game.
@@ -17,7 +17,7 @@ A fun and interactive console-based Rock-Paper-Scissors game written in C++. Pla
 2️⃣ Enter the number of rounds (1 to 10).
 3️⃣ Choose your move:
 
-🪨 1 for Stone
+🪨 1 for Rock
 📜 2 for Paper
 ✂️ 3 for Scissors
 4️⃣ The computer will randomly pick a move.
@@ -36,9 +36,10 @@ Randomization: Uses rand() for computer moves.
 Screen Effects: Changes console color based on round results.
 Game Loop: Repeats the game if the player wants to play again.
 🎨 Visual Effects
-🟩 Green Screen: Player wins the round.
-🟥 Red Screen + Sound: Computer wins the round.
-🟨 Yellow Screen: Round is a draw.
+🟩 Green Screen → Player wins the round.
+🟥 Red Screen + Sound → Computer wins the round.
+🟨 Yellow Screen → Round is a draw.
+
 ⚙️ Technologies Used
 Language: C++
 Concepts: Loops, Functions, Structs, Enums, Randomization
