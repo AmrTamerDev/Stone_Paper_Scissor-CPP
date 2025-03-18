@@ -1,6 +1,6 @@
 🎮 Rock-Paper-Scissors Game 🪨📜✂️
 A fun and interactive console-based Rock-Paper-Scissors game written in C++. Play against the computer in multiple rounds and see who wins! 🏆
-
+--
 📌 Features
 ✔️ Supports up to 10 rounds per game.
 ✔️ Randomized computer choices using rand().
